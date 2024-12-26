@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "frontendmentor_projects",
+			"path": "../../frontendmentor_projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "frontendmentor_projects"
+	}
+}
